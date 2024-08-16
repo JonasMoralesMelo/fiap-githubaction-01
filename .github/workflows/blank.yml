@@ -14,6 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Run a one-line script
-        run: echo Olá, turma da disciplina GitHub Action.
+        run: echo Olá, turma da disciplina GitHub Action..
+
 
   
